@@ -3,13 +3,15 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31129.286
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelloName", "HelloName\HelloName.csproj", "{DDF77799-A130-4650-92F1-44008866AC5E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HelloName", "HelloName\HelloName.csproj", "{DDF77799-A130-4650-92F1-44008866AC5E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SumTwoNumbers", "SumTwoNumbers\SumTwoNumbers.csproj", "{642B26B4-2875-4DD8-8E82-523C925C2180}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SumTwoNumbers", "SumTwoNumbers\SumTwoNumbers.csproj", "{642B26B4-2875-4DD8-8E82-523C925C2180}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DividingTwoNumbers", "DividingTwoNumbers\DividingTwoNumbers.csproj", "{9024DE66-3D39-4598-9FC8-0AB9951A7A5C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DividingTwoNumbers", "DividingTwoNumbers\DividingTwoNumbers.csproj", "{9024DE66-3D39-4598-9FC8-0AB9951A7A5C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MathematicOperations", "MathematicOperations\MathematicOperations.csproj", "{DB55B53A-AA1C-4CF4-A9A4-1A582AF9B7E5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MathematicOperations", "MathematicOperations\MathematicOperations.csproj", "{DB55B53A-AA1C-4CF4-A9A4-1A582AF9B7E5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SwapTwoNumbers.", "SwapTwoNumbers\SwapTwoNumbers..csproj", "{AAC4FA2C-DF6B-48A2-8642-573E25597522}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{DB55B53A-AA1C-4CF4-A9A4-1A582AF9B7E5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DB55B53A-AA1C-4CF4-A9A4-1A582AF9B7E5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DB55B53A-AA1C-4CF4-A9A4-1A582AF9B7E5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AAC4FA2C-DF6B-48A2-8642-573E25597522}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AAC4FA2C-DF6B-48A2-8642-573E25597522}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AAC4FA2C-DF6B-48A2-8642-573E25597522}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AAC4FA2C-DF6B-48A2-8642-573E25597522}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
