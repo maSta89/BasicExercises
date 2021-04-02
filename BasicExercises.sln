@@ -11,11 +11,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DividingTwoNumbers", "Divid
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MathematicOperations", "MathematicOperations\MathematicOperations.csproj", "{DB55B53A-AA1C-4CF4-A9A4-1A582AF9B7E5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SwapTwoNumbers.", "SwapTwoNumbers\SwapTwoNumbers..csproj", "{AAC4FA2C-DF6B-48A2-8642-573E25597522}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SwapTwoNumbers.", "SwapTwoNumbers\SwapTwoNumbers..csproj", "{AAC4FA2C-DF6B-48A2-8642-573E25597522}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MultiplicationThreeNumbers", "MultiplicationThreeNumbers\MultiplicationThreeNumbers.csproj", "{1CCD2F4A-B17B-4965-8DD6-92281251B8C1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MultiplicationThreeNumbers", "MultiplicationThreeNumbers\MultiplicationThreeNumbers.csproj", "{1CCD2F4A-B17B-4965-8DD6-92281251B8C1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MathOperUserImput", "MathOperUserImput\MathOperUserImput.csproj", "{1B4FFC55-239D-4125-BC0B-193580DCADF5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MathOperUserImput", "MathOperUserImput\MathOperUserImput.csproj", "{1B4FFC55-239D-4125-BC0B-193580DCADF5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MultiplicationTable", "MultiplicationTable\MultiplicationTable.csproj", "{8D57E054-4FAF-419C-985E-68629561F02C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -51,6 +53,10 @@ Global
 		{1B4FFC55-239D-4125-BC0B-193580DCADF5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1B4FFC55-239D-4125-BC0B-193580DCADF5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1B4FFC55-239D-4125-BC0B-193580DCADF5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8D57E054-4FAF-419C-985E-68629561F02C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8D57E054-4FAF-419C-985E-68629561F02C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8D57E054-4FAF-419C-985E-68629561F02C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8D57E054-4FAF-419C-985E-68629561F02C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
