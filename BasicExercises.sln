@@ -27,6 +27,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AgePrint", "AgePrint\AgePri
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NumberRepetition", "NumberRepetition\NumberRepetition.csproj", "{ADBBE7F8-7E32-4DF2-B3BA-191DF19CEE20}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NumberColumn", "NumberColumn\NumberColumn.csproj", "{1E4393BE-03DA-47D8-ABC7-11F19A970A69}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -81,6 +83,10 @@ Global
 		{ADBBE7F8-7E32-4DF2-B3BA-191DF19CEE20}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{ADBBE7F8-7E32-4DF2-B3BA-191DF19CEE20}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{ADBBE7F8-7E32-4DF2-B3BA-191DF19CEE20}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1E4393BE-03DA-47D8-ABC7-11F19A970A69}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1E4393BE-03DA-47D8-ABC7-11F19A970A69}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1E4393BE-03DA-47D8-ABC7-11F19A970A69}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1E4393BE-03DA-47D8-ABC7-11F19A970A69}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
