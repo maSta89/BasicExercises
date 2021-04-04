@@ -35,6 +35,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RemoveCharacter", "RemoveCh
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FirstLastChange", "FirstLastChange\FirstLastChange.csproj", "{591D99BC-DA1A-4644-99F2-65915E3BA23F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CharacterFrontBack", "CharacterFrontBack\CharacterFrontBack.csproj", "{E74632EE-3C99-44E3-8651-F98DDDA4A41B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -105,6 +107,10 @@ Global
 		{591D99BC-DA1A-4644-99F2-65915E3BA23F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{591D99BC-DA1A-4644-99F2-65915E3BA23F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{591D99BC-DA1A-4644-99F2-65915E3BA23F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E74632EE-3C99-44E3-8651-F98DDDA4A41B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E74632EE-3C99-44E3-8651-F98DDDA4A41B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E74632EE-3C99-44E3-8651-F98DDDA4A41B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E74632EE-3C99-44E3-8651-F98DDDA4A41B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
