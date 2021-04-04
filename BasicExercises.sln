@@ -23,13 +23,15 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FourNumbersAverage", "FourN
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ThreeNumbersFormula", "ThreeNumbersFormula\ThreeNumbersFormula.csproj", "{52B1C436-69F1-4652-B509-F80AFCE9C966}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AgePrint", "AgePrint\AgePrint.csproj", "{0D1AC1EE-586C-4C53-8E90-EAD88DAFF2A6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AgePrint", "AgePrint\AgePrint.csproj", "{0D1AC1EE-586C-4C53-8E90-EAD88DAFF2A6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NumberRepetition", "NumberRepetition\NumberRepetition.csproj", "{ADBBE7F8-7E32-4DF2-B3BA-191DF19CEE20}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NumberRepetition", "NumberRepetition\NumberRepetition.csproj", "{ADBBE7F8-7E32-4DF2-B3BA-191DF19CEE20}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NumberColumn", "NumberColumn\NumberColumn.csproj", "{1E4393BE-03DA-47D8-ABC7-11F19A970A69}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NumberColumn", "NumberColumn\NumberColumn.csproj", "{1E4393BE-03DA-47D8-ABC7-11F19A970A69}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConvertCeltoKeltoFahr", "ConvertCeltoKeltoFahr\ConvertCeltoKeltoFahr.csproj", "{1ACE5553-2ADA-4F9F-91AC-32309517C8AE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConvertCeltoKeltoFahr", "ConvertCeltoKeltoFahr\ConvertCeltoKeltoFahr.csproj", "{1ACE5553-2ADA-4F9F-91AC-32309517C8AE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RemoveCharacter", "RemoveCharacter\RemoveCharacter.csproj", "{56FC45CB-DA09-4549-A2BD-350A8140997C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -93,6 +95,10 @@ Global
 		{1ACE5553-2ADA-4F9F-91AC-32309517C8AE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1ACE5553-2ADA-4F9F-91AC-32309517C8AE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1ACE5553-2ADA-4F9F-91AC-32309517C8AE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{56FC45CB-DA09-4549-A2BD-350A8140997C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{56FC45CB-DA09-4549-A2BD-350A8140997C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{56FC45CB-DA09-4549-A2BD-350A8140997C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{56FC45CB-DA09-4549-A2BD-350A8140997C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
