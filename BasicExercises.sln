@@ -31,15 +31,17 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NumberColumn", "NumberColum
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConvertCeltoKeltoFahr", "ConvertCeltoKeltoFahr\ConvertCeltoKeltoFahr.csproj", "{1ACE5553-2ADA-4F9F-91AC-32309517C8AE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RemoveCharacter", "RemoveCharacter\RemoveCharacter.csproj", "{56FC45CB-DA09-4549-A2BD-350A8140997C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RemoveCharacter", "RemoveCharacter\RemoveCharacter.csproj", "{56FC45CB-DA09-4549-A2BD-350A8140997C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FirstLastChange", "FirstLastChange\FirstLastChange.csproj", "{591D99BC-DA1A-4644-99F2-65915E3BA23F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FirstLastChange", "FirstLastChange\FirstLastChange.csproj", "{591D99BC-DA1A-4644-99F2-65915E3BA23F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CharacterFrontBack", "CharacterFrontBack\CharacterFrontBack.csproj", "{E74632EE-3C99-44E3-8651-F98DDDA4A41B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CharacterFrontBack", "CharacterFrontBack\CharacterFrontBack.csproj", "{E74632EE-3C99-44E3-8651-F98DDDA4A41B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StringPositiveNegative", "StringPositiveNegative\StringPositiveNegative.csproj", "{68FA508F-3A6A-4F78-91EB-8A495A1BD22A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StringPositiveNegative", "StringPositiveNegative\StringPositiveNegative.csproj", "{68FA508F-3A6A-4F78-91EB-8A495A1BD22A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TwoNumbersTriple", "TwoNumbersTriple\TwoNumbersTriple.csproj", "{F30BEBDD-895E-4647-918F-95A2639A842F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TwoNumbersTriple", "TwoNumbersTriple\TwoNumbersTriple.csproj", "{F30BEBDD-895E-4647-918F-95A2639A842F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AbsoluteValueDifference", "AbsoluteValueDifference\AbsoluteValueDifference.csproj", "{9D2561A6-8D18-49BF-B011-B3363038D86E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -123,6 +125,10 @@ Global
 		{F30BEBDD-895E-4647-918F-95A2639A842F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F30BEBDD-895E-4647-918F-95A2639A842F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F30BEBDD-895E-4647-918F-95A2639A842F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9D2561A6-8D18-49BF-B011-B3363038D86E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9D2561A6-8D18-49BF-B011-B3363038D86E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9D2561A6-8D18-49BF-B011-B3363038D86E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9D2561A6-8D18-49BF-B011-B3363038D86E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
