@@ -39,6 +39,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CharacterFrontBack", "Chara
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StringPositiveNegative", "StringPositiveNegative\StringPositiveNegative.csproj", "{68FA508F-3A6A-4F78-91EB-8A495A1BD22A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TwoNumbersTriple", "TwoNumbersTriple\TwoNumbersTriple.csproj", "{F30BEBDD-895E-4647-918F-95A2639A842F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -117,6 +119,10 @@ Global
 		{68FA508F-3A6A-4F78-91EB-8A495A1BD22A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{68FA508F-3A6A-4F78-91EB-8A495A1BD22A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{68FA508F-3A6A-4F78-91EB-8A495A1BD22A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F30BEBDD-895E-4647-918F-95A2639A842F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F30BEBDD-895E-4647-918F-95A2639A842F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F30BEBDD-895E-4647-918F-95A2639A842F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F30BEBDD-895E-4647-918F-95A2639A842F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
