@@ -3,57 +3,59 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31129.286
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HelloName", "HelloName\HelloName.csproj", "{DDF77799-A130-4650-92F1-44008866AC5E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1.HelloName", "HelloName\1.HelloName.csproj", "{DDF77799-A130-4650-92F1-44008866AC5E}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SumTwoNumbers", "SumTwoNumbers\SumTwoNumbers.csproj", "{642B26B4-2875-4DD8-8E82-523C925C2180}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "2.SumTwoNumbers", "SumTwoNumbers\2.SumTwoNumbers.csproj", "{642B26B4-2875-4DD8-8E82-523C925C2180}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DividingTwoNumbers", "DividingTwoNumbers\DividingTwoNumbers.csproj", "{9024DE66-3D39-4598-9FC8-0AB9951A7A5C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "3.DividingTwoNumbers", "DividingTwoNumbers\3.DividingTwoNumbers.csproj", "{9024DE66-3D39-4598-9FC8-0AB9951A7A5C}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MathematicOperations", "MathematicOperations\MathematicOperations.csproj", "{DB55B53A-AA1C-4CF4-A9A4-1A582AF9B7E5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "4.MathematicOperations", "MathematicOperations\4.MathematicOperations.csproj", "{DB55B53A-AA1C-4CF4-A9A4-1A582AF9B7E5}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SwapTwoNumbers.", "SwapTwoNumbers\SwapTwoNumbers..csproj", "{AAC4FA2C-DF6B-48A2-8642-573E25597522}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "5.SwapTwoNumbers", "SwapTwoNumbers\5.SwapTwoNumbers.csproj", "{AAC4FA2C-DF6B-48A2-8642-573E25597522}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MultiplicationThreeNumbers", "MultiplicationThreeNumbers\MultiplicationThreeNumbers.csproj", "{1CCD2F4A-B17B-4965-8DD6-92281251B8C1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "6.MultiplicationThreeNumbers", "MultiplicationThreeNumbers\6.MultiplicationThreeNumbers.csproj", "{1CCD2F4A-B17B-4965-8DD6-92281251B8C1}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MathOperUserImput", "MathOperUserImput\MathOperUserImput.csproj", "{1B4FFC55-239D-4125-BC0B-193580DCADF5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "7.MathOperUserImput", "MathOperUserImput\7.MathOperUserImput.csproj", "{1B4FFC55-239D-4125-BC0B-193580DCADF5}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MultiplicationTable", "MultiplicationTable\MultiplicationTable.csproj", "{8D57E054-4FAF-419C-985E-68629561F02C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "8.MultiplicationTable", "MultiplicationTable\8.MultiplicationTable.csproj", "{8D57E054-4FAF-419C-985E-68629561F02C}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FourNumbersAverage", "FourNumbersAverage\FourNumbersAverage.csproj", "{FACC2579-E2D3-4CC0-91DA-E77DDAA252A9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "9.FourNumbersAverage", "FourNumbersAverage\9.FourNumbersAverage.csproj", "{FACC2579-E2D3-4CC0-91DA-E77DDAA252A9}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ThreeNumbersFormula", "ThreeNumbersFormula\ThreeNumbersFormula.csproj", "{52B1C436-69F1-4652-B509-F80AFCE9C966}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "10.ThreeNumbersFormula", "ThreeNumbersFormula\10.ThreeNumbersFormula.csproj", "{52B1C436-69F1-4652-B509-F80AFCE9C966}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AgePrint", "AgePrint\AgePrint.csproj", "{0D1AC1EE-586C-4C53-8E90-EAD88DAFF2A6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "11.AgePrint", "AgePrint\11.AgePrint.csproj", "{0D1AC1EE-586C-4C53-8E90-EAD88DAFF2A6}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NumberRepetition", "NumberRepetition\NumberRepetition.csproj", "{ADBBE7F8-7E32-4DF2-B3BA-191DF19CEE20}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "12.NumberRepetition", "NumberRepetition\12.NumberRepetition.csproj", "{ADBBE7F8-7E32-4DF2-B3BA-191DF19CEE20}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NumberColumn", "NumberColumn\NumberColumn.csproj", "{1E4393BE-03DA-47D8-ABC7-11F19A970A69}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "13.NumberColumn", "NumberColumn\13.NumberColumn.csproj", "{1E4393BE-03DA-47D8-ABC7-11F19A970A69}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConvertCeltoKeltoFahr", "ConvertCeltoKeltoFahr\ConvertCeltoKeltoFahr.csproj", "{1ACE5553-2ADA-4F9F-91AC-32309517C8AE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "14.ConvertCeltoKeltoFahr", "ConvertCeltoKeltoFahr\14.ConvertCeltoKeltoFahr.csproj", "{1ACE5553-2ADA-4F9F-91AC-32309517C8AE}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RemoveCharacter", "RemoveCharacter\RemoveCharacter.csproj", "{56FC45CB-DA09-4549-A2BD-350A8140997C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "15.RemoveCharacter", "RemoveCharacter\15.RemoveCharacter.csproj", "{56FC45CB-DA09-4549-A2BD-350A8140997C}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FirstLastChange", "FirstLastChange\FirstLastChange.csproj", "{591D99BC-DA1A-4644-99F2-65915E3BA23F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "16.FirstLastChange", "FirstLastChange\16.FirstLastChange.csproj", "{591D99BC-DA1A-4644-99F2-65915E3BA23F}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CharacterFrontBack", "CharacterFrontBack\CharacterFrontBack.csproj", "{E74632EE-3C99-44E3-8651-F98DDDA4A41B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "17.CharacterFrontBack", "CharacterFrontBack\17.CharacterFrontBack.csproj", "{E74632EE-3C99-44E3-8651-F98DDDA4A41B}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StringPositiveNegative", "StringPositiveNegative\StringPositiveNegative.csproj", "{68FA508F-3A6A-4F78-91EB-8A495A1BD22A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "18.StringPositiveNegative", "StringPositiveNegative\18.StringPositiveNegative.csproj", "{68FA508F-3A6A-4F78-91EB-8A495A1BD22A}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TwoNumbersTriple", "TwoNumbersTriple\TwoNumbersTriple.csproj", "{F30BEBDD-895E-4647-918F-95A2639A842F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "19.TwoNumbersTriple", "TwoNumbersTriple\19.TwoNumbersTriple.csproj", "{F30BEBDD-895E-4647-918F-95A2639A842F}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AbsoluteValueDifference", "AbsoluteValueDifference\AbsoluteValueDifference.csproj", "{9D2561A6-8D18-49BF-B011-B3363038D86E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "20.AbsoluteValueDifference", "AbsoluteValueDifference\20.AbsoluteValueDifference.csproj", "{9D2561A6-8D18-49BF-B011-B3363038D86E}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TrueIfTwenty", "TrueIfTwenty\TrueIfTwenty.csproj", "{B3F98010-0A31-4141-8378-2997E7F5548A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "21.TrueIfTwenty", "TrueIfTwenty\21.TrueIfTwenty.csproj", "{B3F98010-0A31-4141-8378-2997E7F5548A}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TopTwentyofHundred", "TopTwentyofHundred\TopTwentyofHundred.csproj", "{8ABABBA3-3F5C-4EE2-852C-FABC54D7C680}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "20.TopTwentyofHundred", "TopTwentyofHundred\20.TopTwentyofHundred.csproj", "{8ABABBA3-3F5C-4EE2-852C-FABC54D7C680}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConverStringLowercase", "ConverStringLowercase\ConverStringLowercase.csproj", "{7F66EF6F-104D-4C97-A163-345A92BCCC68}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "23.ConverStringLowercase", "ConverStringLowercase\23.ConverStringLowercase.csproj", "{7F66EF6F-104D-4C97-A163-345A92BCCC68}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LongestWord", "LongestWord\LongestWord.csproj", "{57DA62A0-7A74-4687-A5F7-022D83AB304C}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "24.LongestWord", "LongestWord\24.LongestWord.csproj", "{57DA62A0-7A74-4687-A5F7-022D83AB304C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OddNumbersTo99", "OddNumbersTo99\OddNumbersTo99.csproj", "{7988570E-B488-4BD8-A3DD-CB82DE0C0F28}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "25.OddNumbersTo99", "OddNumbersTo99\25.OddNumbersTo99.csproj", "{7988570E-B488-4BD8-A3DD-CB82DE0C0F28}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "26.Sum500PrimeNumbers", "26.Sum500PrimeNumbers\26.Sum500PrimeNumbers.csproj", "{B047AF3A-C1AA-4ED6-9280-6EF3D711BCB1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "27.SumDigitsInteger", "27.SumDigitsInteger\27.SumDigitsInteger.csproj", "{0575E745-85A9-4E4D-BB29-371C517FC8A7}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -165,6 +167,10 @@ Global
 		{B047AF3A-C1AA-4ED6-9280-6EF3D711BCB1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B047AF3A-C1AA-4ED6-9280-6EF3D711BCB1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B047AF3A-C1AA-4ED6-9280-6EF3D711BCB1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0575E745-85A9-4E4D-BB29-371C517FC8A7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0575E745-85A9-4E4D-BB29-371C517FC8A7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0575E745-85A9-4E4D-BB29-371C517FC8A7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0575E745-85A9-4E4D-BB29-371C517FC8A7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

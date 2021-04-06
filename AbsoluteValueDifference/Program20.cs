@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace AbsoluteValueDifference {
+namespace _20.AbsoluteValueDifference {
     class Program20 {
         static void Main(string[] args) {
             //Write a C# program to get the absolute value of the difference between two given numbers.

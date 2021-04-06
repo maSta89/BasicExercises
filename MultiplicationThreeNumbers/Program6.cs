@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace MultiplicationThreeNumbers {
+namespace _6.MultiplicationThreeNumbers {
     class Program6 {
         static void Main(string[] args) { // Write a C# Sharp program to print the output of multiplication of three numbers which will be entered by the user.
 

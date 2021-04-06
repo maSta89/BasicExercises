@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace CharacterFrontBack {
+namespace _17.CharacterFrontBack {
     class Program17 {
         static void Main(string[] args) {
             //Write a C# program to create a new string from a given string (length 1 or more ) with the first character added at the front and back.

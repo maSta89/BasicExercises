@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace OddNumbersTo99 {
+namespace _25.OddNumbersTo99 {
     class Program25 {
         static void Main(string[] args) {
             //Write a C# program to print the odd numbers from 1 to 99. Prints one number per line.

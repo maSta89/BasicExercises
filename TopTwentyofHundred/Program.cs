@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace TopTwentyofHundred {
+namespace _20.TopTwentyofHundred {
     class Program {
         static void Main(string[] args) {//Write a C# program to check if an given integer is within 20 of 100 or 200.
 

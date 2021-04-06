@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace MultiplicationTable {
+namespace _8.MultiplicationTable {
     class Program8 {
         static void Main(string[] args) { //Write a C# Sharp program that takes a number as input and print its multiplication table.
 

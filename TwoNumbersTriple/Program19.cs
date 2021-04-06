@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace TwoNumbersTriple {
+namespace _19.TwoNumbersTriple {
     class Program19 {
         static void Main(string[] args) {
             //Write a C# program to compute the sum of two given integers,

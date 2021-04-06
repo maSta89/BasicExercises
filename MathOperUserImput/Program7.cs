@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace MathOperUserImput {
+namespace _7.MathOperUserImput {
     class Program7 {
         static void Main(string[] args) {
             //Write a C# Sharp program to print on screen the output of adding, subtracting, multiplying and dividing of two numbers

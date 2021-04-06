@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace NumberRepetition {
+namespace _12.NumberRepetition {
     class Program12 {
         static void Main(string[] args) {
             //Write a C# program to that takes a number as input and display it four times in a row (separated by blank spaces),

@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace DividingTwoNumbers {
+namespace _3.DividingTwoNumbers {
     class Program3 {
         static void Main(string[] args) {//Write a C# Sharp program to print the result of dividing two numbers.
             double number1 = 15;

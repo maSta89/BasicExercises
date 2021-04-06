@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace SumTwoNumbers {
+namespace _2.SumTwoNumbers {
     class Program2 {
         static void Main(string[] args) { //Write a C# Sharp program to print the sum of two numbers.
             int number1 = 7;

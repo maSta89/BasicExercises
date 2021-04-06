@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace NumberColumn {
+namespace _13.NumberColumn {
     class Program13 {
         static void Main(string[] args) {
             //Write a C# program that takes a number as input and then displays a rectangle of 3 columns wide and 5 rows tall using that digit.

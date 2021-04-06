@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace FourNumbersAverage {
+namespace _9.FourNumbersAverage {
     class Program9 {
         static void Main(string[] args) { // Write a C# Sharp program that takes four numbers as input to calculate and print the average.
 

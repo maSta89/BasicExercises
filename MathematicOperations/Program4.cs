@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace MathematicOperations {
+namespace _4.MathematicOperations {
     class Program4 {
         static void Main(string[] args) {//Write a C# Sharp program to print the result of the specified operations.
 

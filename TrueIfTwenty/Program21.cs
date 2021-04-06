@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace TrueIfTwenty {
+namespace _21.TrueIfTwenty {
     class Program21 {
         static void Main(string[] args) {
             //Write a C# program to check the sum of the two given integers and return true

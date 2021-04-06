@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace ConvertCeltoKeltoFahr {
+namespace _14.ConvertCeltoKeltoFahr {
     class Program14 {
         static void Main(string[] args) {//Write a C# program to convert from celsius degrees to Kelvin and Fahrenheit.
 

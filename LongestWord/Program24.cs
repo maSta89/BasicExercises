@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace LongestWord {
+namespace _24.LongestWord {
     class Program24 {
         static void Main(string[] args) {//Write a C# program to find the longest word in a string.
 

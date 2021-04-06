@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace ConverStringLowercase {
+namespace _23.ConverStringLowercase {
     class Program23 {
         static void Main(string[] args) {//Write a C# program to convert a given string into lowercase.
 

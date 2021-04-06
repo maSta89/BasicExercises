@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace ThreeNumbersFormula {
+namespace _10.ThreeNumbersFormula {
     class Program10 {
         static void Main(string[] args) {//Write a C# Sharp program to that takes three numbers(x,y,z) as input and print the output of (x+y).z and x.y + y.z.
 

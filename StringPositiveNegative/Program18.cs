@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace StringPositiveNegative {
+namespace _18.StringPositiveNegative {
     class Program18 {
         static void Main(string[] args) {//Write a C# program to check two given integers and return true if one is negative and one is positive.
 

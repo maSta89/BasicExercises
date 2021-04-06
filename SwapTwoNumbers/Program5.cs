@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace SwapTwoNumbers_ {
+namespace _5.SwapTwoNumbers_ {
     class Program5 {
         static void Main(string[] args) { //Write a C# Sharp program to swap two numbers.
 

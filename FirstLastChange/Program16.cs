@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace FirstLastChange {
+namespace _16FirstLastChange {
     class Program16 {
         static void Main(string[] args) {
             //Write a C# program to create a new string from a given string where the first and last characters will change their positions.
