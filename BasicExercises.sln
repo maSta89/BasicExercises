@@ -53,6 +53,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LongestWord", "LongestWord\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OddNumbersTo99", "OddNumbersTo99\OddNumbersTo99.csproj", "{7988570E-B488-4BD8-A3DD-CB82DE0C0F28}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "26.Sum500PrimeNumbers", "26.Sum500PrimeNumbers\26.Sum500PrimeNumbers.csproj", "{B047AF3A-C1AA-4ED6-9280-6EF3D711BCB1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -159,6 +161,10 @@ Global
 		{7988570E-B488-4BD8-A3DD-CB82DE0C0F28}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7988570E-B488-4BD8-A3DD-CB82DE0C0F28}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7988570E-B488-4BD8-A3DD-CB82DE0C0F28}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B047AF3A-C1AA-4ED6-9280-6EF3D711BCB1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B047AF3A-C1AA-4ED6-9280-6EF3D711BCB1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B047AF3A-C1AA-4ED6-9280-6EF3D711BCB1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B047AF3A-C1AA-4ED6-9280-6EF3D711BCB1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
