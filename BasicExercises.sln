@@ -49,13 +49,15 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "20.TopTwentyofHundred", "To
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "23.ConverStringLowercase", "ConverStringLowercase\23.ConverStringLowercase.csproj", "{7F66EF6F-104D-4C97-A163-345A92BCCC68}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "24.LongestWord", "LongestWord\24.LongestWord.csproj", "{57DA62A0-7A74-4687-A5F7-022D83AB304C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "24.LongestWord", "LongestWord\24.LongestWord.csproj", "{57DA62A0-7A74-4687-A5F7-022D83AB304C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "25.OddNumbersTo99", "OddNumbersTo99\25.OddNumbersTo99.csproj", "{7988570E-B488-4BD8-A3DD-CB82DE0C0F28}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "25.OddNumbersTo99", "OddNumbersTo99\25.OddNumbersTo99.csproj", "{7988570E-B488-4BD8-A3DD-CB82DE0C0F28}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "26.Sum500PrimeNumbers", "26.Sum500PrimeNumbers\26.Sum500PrimeNumbers.csproj", "{B047AF3A-C1AA-4ED6-9280-6EF3D711BCB1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "26.Sum500PrimeNumbers", "26.Sum500PrimeNumbers\26.Sum500PrimeNumbers.csproj", "{B047AF3A-C1AA-4ED6-9280-6EF3D711BCB1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "27.SumDigitsInteger", "27.SumDigitsInteger\27.SumDigitsInteger.csproj", "{0575E745-85A9-4E4D-BB29-371C517FC8A7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "27.SumDigitsInteger", "27.SumDigitsInteger\27.SumDigitsInteger.csproj", "{0575E745-85A9-4E4D-BB29-371C517FC8A7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "28.ReverseSentenceWords", "ReverseSentenceWords\28.ReverseSentenceWords.csproj", "{A432415D-F390-43C4-AEB5-AE2A87ED6919}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -171,6 +173,10 @@ Global
 		{0575E745-85A9-4E4D-BB29-371C517FC8A7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0575E745-85A9-4E4D-BB29-371C517FC8A7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0575E745-85A9-4E4D-BB29-371C517FC8A7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A432415D-F390-43C4-AEB5-AE2A87ED6919}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A432415D-F390-43C4-AEB5-AE2A87ED6919}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A432415D-F390-43C4-AEB5-AE2A87ED6919}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A432415D-F390-43C4-AEB5-AE2A87ED6919}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
