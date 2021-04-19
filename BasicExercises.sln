@@ -67,6 +67,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "31.MultiplyArrays", "31.Mul
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "32.NewStringFourCopies", "32.NewStringFourCopies\32.NewStringFourCopies.csproj", "{00174863-D3F5-4135-91F2-40B60869306C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "33. Multiple3or7", "33. Multiple3or7\33. Multiple3or7.csproj", "{8E3CA3E4-DD95-45F2-98BC-51B5A7A4BAA9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -201,6 +203,10 @@ Global
 		{00174863-D3F5-4135-91F2-40B60869306C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{00174863-D3F5-4135-91F2-40B60869306C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{00174863-D3F5-4135-91F2-40B60869306C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8E3CA3E4-DD95-45F2-98BC-51B5A7A4BAA9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8E3CA3E4-DD95-45F2-98BC-51B5A7A4BAA9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8E3CA3E4-DD95-45F2-98BC-51B5A7A4BAA9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8E3CA3E4-DD95-45F2-98BC-51B5A7A4BAA9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
