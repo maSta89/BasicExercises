@@ -71,7 +71,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "33. Multiple3or7", "33. Mul
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "34.CheckStartWord", "34.CheckStartWord\34.CheckStartWord.csproj", "{16DF3E3E-BD67-4AFE-AAFB-388D12E4DCF8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "35.CheckTwoNumbers", "35.CheckTwoNumbers\35.CheckTwoNumbers.csproj", "{646C6D4C-BA93-4DE0-8992-DF3538D88F19}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "35.CheckTwoNumbers", "35.CheckTwoNumbers\35.CheckTwoNumbers.csproj", "{646C6D4C-BA93-4DE0-8992-DF3538D88F19}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "36.IntegerInRange", "36.IntegerInRange\36.IntegerInRange.csproj", "{DBB54441-A2BB-447F-8069-E81709BE8889}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -219,6 +221,10 @@ Global
 		{646C6D4C-BA93-4DE0-8992-DF3538D88F19}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{646C6D4C-BA93-4DE0-8992-DF3538D88F19}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{646C6D4C-BA93-4DE0-8992-DF3538D88F19}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DBB54441-A2BB-447F-8069-E81709BE8889}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DBB54441-A2BB-447F-8069-E81709BE8889}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DBB54441-A2BB-447F-8069-E81709BE8889}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DBB54441-A2BB-447F-8069-E81709BE8889}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
