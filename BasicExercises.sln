@@ -61,13 +61,17 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "28.ReverseSentenceWords", "
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "29.FileSizebytes", "FileSizebytes\29.FileSizebytes.csproj", "{BCA6E03C-1AC5-421C-8213-4222E58A614C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "30.ConvertHexDec", "30.ConvertHexDec\30.ConvertHexDec.csproj", "{12DDC29D-6CCC-4DB2-A787-399C4941C5D3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "30.ConvertHexDec", "30.ConvertHexDec\30.ConvertHexDec.csproj", "{12DDC29D-6CCC-4DB2-A787-399C4941C5D3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "31.MultiplyArrays", "31.MultiplyArrays\31.MultiplyArrays.csproj", "{98F49901-B282-4BC0-8EEE-D3E8BB8188EC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "31.MultiplyArrays", "31.MultiplyArrays\31.MultiplyArrays.csproj", "{98F49901-B282-4BC0-8EEE-D3E8BB8188EC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "32.NewStringFourCopies", "32.NewStringFourCopies\32.NewStringFourCopies.csproj", "{00174863-D3F5-4135-91F2-40B60869306C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "32.NewStringFourCopies", "32.NewStringFourCopies\32.NewStringFourCopies.csproj", "{00174863-D3F5-4135-91F2-40B60869306C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "33. Multiple3or7", "33. Multiple3or7\33. Multiple3or7.csproj", "{8E3CA3E4-DD95-45F2-98BC-51B5A7A4BAA9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "33. Multiple3or7", "33. Multiple3or7\33. Multiple3or7.csproj", "{8E3CA3E4-DD95-45F2-98BC-51B5A7A4BAA9}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "34.CheckStartWord", "34.CheckStartWord\34.CheckStartWord.csproj", "{16DF3E3E-BD67-4AFE-AAFB-388D12E4DCF8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "35.CheckTwoNumbers", "35.CheckTwoNumbers\35.CheckTwoNumbers.csproj", "{646C6D4C-BA93-4DE0-8992-DF3538D88F19}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -207,6 +211,14 @@ Global
 		{8E3CA3E4-DD95-45F2-98BC-51B5A7A4BAA9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8E3CA3E4-DD95-45F2-98BC-51B5A7A4BAA9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8E3CA3E4-DD95-45F2-98BC-51B5A7A4BAA9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{16DF3E3E-BD67-4AFE-AAFB-388D12E4DCF8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{16DF3E3E-BD67-4AFE-AAFB-388D12E4DCF8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{16DF3E3E-BD67-4AFE-AAFB-388D12E4DCF8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{16DF3E3E-BD67-4AFE-AAFB-388D12E4DCF8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{646C6D4C-BA93-4DE0-8992-DF3538D88F19}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{646C6D4C-BA93-4DE0-8992-DF3538D88F19}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{646C6D4C-BA93-4DE0-8992-DF3538D88F19}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{646C6D4C-BA93-4DE0-8992-DF3538D88F19}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
