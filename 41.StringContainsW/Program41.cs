@@ -1,7 +1,7 @@
 ﻿using System;
 
 namespace _41.StringContainsW {
-    class Program {
+    class Program41 {
         static void Main(string[] args) {
             //Write a C# program to check if a given string contains ‘w’ character between 1 and 3 times.
 
