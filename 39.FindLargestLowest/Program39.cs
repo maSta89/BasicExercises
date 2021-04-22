@@ -23,7 +23,9 @@ namespace _39.FindLargestLowest {
 
             int [] numarray =  Numlist.ToArray();
 
-            Console.WriteLine("highest number is = " + numarray.GetValue(numarray.Length-1));
+            Console.WriteLine("lowest number is = " + numarray.GetValue(0));
+
+            Console.WriteLine("largest number is = " + numarray.GetValue(numarray.Length-1));
 
         }
     }
